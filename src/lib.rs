@@ -17,6 +17,7 @@
 //!  - [generator functions](generate/index.html)
 //!  - [Scalar trait](types/trait.Scalar.html)
 
+pub mod arnoldi;
 pub mod assert;
 pub mod cholesky;
 pub mod convert;
